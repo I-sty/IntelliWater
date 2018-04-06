@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">IntelliWater</string>
+    <string name="label_connecting">Connecting…</string>
+    <string name="label_try_again">(Try again)</string>
+    <string name="title_activity_config">Config Activity</string>
+    <string name="tab_text_1">Auto</string>
+    <string name="tab_text_2">Manual</string>
+    <string name="action_about">About</string>
+    <string name="label_water_level_bank1">Water tank level</string>
+    <string name="label_water_level_bank2">Water source level</string>
+    <string name="label_demand_level">Demand level</string>
+    <string name="label_are_you_sure_to_turn_manual_mode_on">Are you sure to turn manual mode on?</string>
+    <string name="label_no">NO</string>
+    <string name="label_ok">OK</string>
+    <string name="label_pump_status">Pump status</string>
+    <string name="label_water_source">Water source</string>
+    <string name="label_system">System</string>
+    <string name="label_stop">STOP</string>
+    <string name="label_start">START</string>
+    <string name="label_off">OFF</string>
+    <string name="label_on">ON</string>
+    <string name="label_no_server_config">Cannot get server config</string>
+    <string name="label_connect">Connect</string>
+    <string name="label_enter_valid_server_address">Enter a valid IPv4 address</string>
+    <string name="label_advanced_mode">Advanced mode</string>
+    <string name="label_last_warning">Last warning</string>
+    <string name="label_too_low">Too low!</string>
+</resources>
